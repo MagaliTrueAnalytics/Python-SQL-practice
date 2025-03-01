@@ -3,7 +3,9 @@
 🚀 Overview
 
 This repository is dedicated to practicing **Python** and **SQL (SQLite)** in **VS Code**, based on exercises and examples from the **HarvardX CS50 courses** on edX:
+
   **CS50P – Introduction to Programming with Python**
+  
   **CS50SQL – Introduction to Databases with SQL**
 
 As an **auditor** of these courses, I have recreated and adapted key concepts, exercises, and challenges for self-improvement and reference while ensuring confidence and honesty in the process. Out of respect for the HarvardX instructors David Milan and Carter Zenke and their work, I have modified the content rather than duplicating it directly, staying true to the principles of academic integrity.
