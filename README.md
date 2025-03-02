@@ -1,26 +1,29 @@
-📚 Python & SQL Practice – HarvardX CS50
+📚 Python & SQL Practice
 
 🚀 Overview
 
-This repository is dedicated to practicing **Python** and **SQL (SQLite)** in **VS Code**, based on exercises and examples from the **HarvardX CS50 courses** on edX:
+This repository is dedicated to practicing **Python** and **SQL (SQLite)** in **VS Code**, based on exercises and examples from the **HarvardX CS50 courses** on edX : 
 
-  **CS50P – Introduction to Programming with Python**
+     **CS50P – Introduction to Programming with Python**
   
-  **CS50SQL – Introduction to Databases with SQL**
+     **CS50SQL – Introduction to Databases with SQL**
 
-As an **auditor** of these courses, I have recreated and adapted key concepts, exercises, and challenges for self-improvement and reference while ensuring confidence and honesty in the process. Out of respect for the HarvardX instructors David Milan and Carter Zenke and their work, I have modified the content rather than duplicating it directly, staying true to the principles of academic integrity.
+As an **auditor** of these courses, I have recreated and adapted key concepts, exercises, and challenges for self-improvement and reference while ensuring confidence and honesty in the process. Out of respect for the HarvardX instructors and their work, I have modified the content rather than duplicating it directly, staying true to the principles of academic integrity.
+
+This repository also contains exercises and projects completed as part of the **IBM Data Analyst Professional Certificate**. It includes Python scripts, SQL queries, and Jupyter Notebooks covering various data analysis and data science concepts.
 
 📂 Contents
 
-    🐍 **Python Practice:** Covers loops, functions, file handling, and scripting.
+    🐍 **Python Practice:** Covers loops, functions, file handling, and scripting, API, webscraping.
     🗄️ **SQL Practice:** Includes database design, queries, joins, and advanced SQL techniques.
-    🛠 **Hands-on Exercises:** Independent coding challenges to reinforce learning.
+    🛠  **Hands-on Exercises:** Independent coding challenges to reinforce learning.
 
-🔧 Technologies Used
+🔧 Technologies and Tools
 
-    **Python 3** 🐍
-    **SQLite** 🗄️
-    **VS Code** 💻
+    **Python 3 (Pandas, NumPy, Matplotlib, Seaborn, BeautifulSoup)** 
+    **SQLite**
+    **VS Code** 
+    **Jupyter Notebook (ipython-sql, SQL Magic)**
 
 📌 How to Use
 
@@ -40,6 +43,7 @@ As an **auditor** of these courses, I have recreated and adapted key concepts, e
 
   🔗 [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/)
   🔗 [CS50's Introduction to Databases with SQL](https://cs50.harvard.edu/sql/)
+  🔗 [IBM Professional Certificate on Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
 
 
-💡 *This repository is a personal learning space to practice and refine my Python & SQL skills. Contributions are welcome!* 😊
+💡 *This repository is a personal learning space to practice and refine my Python & SQL skills. 
