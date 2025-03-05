@@ -10,7 +10,7 @@ This repository is dedicated to practicing **Python** and **SQL (SQLite)** in **
 
 As an **auditor** of these courses, I have recreated and adapted key concepts, exercises, and challenges for self-improvement and reference while ensuring confidence and honesty in the process. Out of respect for the HarvardX instructors and their work, I have modified the content rather than duplicating it directly, staying true to the principles of academic integrity.
 
-This repository also contains adapted exercises and projects completed as part of the **IBM Data Analyst Professional Certificate**. It includes Python scripts, SQL queries, and Jupyter Notebooks covering various data analysis and data science concepts.
+This repository also contains adapted projects completed as part of the **IBM Data Analyst Professional Certificate** using Jupyter Notebooks and covering various data analysis and data science concepts.
 
 📂 Contents
 
@@ -23,8 +23,6 @@ This repository also contains adapted exercises and projects completed as part o
 **Python 3** (Pandas, NumPy, Matplotlib, Seaborn, BeautifulSoup) 
 
 **SQLite**
-
-**VS Code** 
 
 **Jupyter Notebook** (ipython-sql, SQL Magic)
 
