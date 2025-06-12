@@ -1,6 +1,6 @@
-📚 Python & SQL Practice
+<h1>📚 Python & SQL Practice</h1>
 
-🚀 Overview
+<h3>🚀 Overview</h3>
 
 This repository is dedicated to practicing **Python** and **SQL (SQLite)** in **VS Code**, based on exercises and examples from the **HarvardX CS50 courses** on edX : 
 
@@ -12,13 +12,13 @@ As an **auditor** of these courses, I have recreated and adapted key concepts, e
 
 This repository also contains adapted projects completed as part of the **IBM Data Analyst Professional Certificate** using Jupyter Notebooks and covering various data analysis and data science concepts.
 
-📂 Contents
+<h3>📂 Contents</h3>
 
 🐍 **Python Practice:** Covers loops, functions, file handling, and scripting, API, webscraping.
 🗄️ **SQL Practice:** Includes database design, queries, joins, and advanced SQL techniques.
 🛠  **Hands-on Exercises:** Independent coding challenges to reinforce learning.
 
-🔧 Technologies and Tools
+<h3>🔧 Technologies and Tools</h3>
 
 **Python 3** (Pandas, NumPy, Matplotlib, Seaborn, BeautifulSoup) 
 
@@ -27,7 +27,7 @@ This repository also contains adapted projects completed as part of the **IBM Da
 **Jupyter Notebook** (ipython-sql, SQL Magic)
 
 
-📌 How to Use
+<h3>📌 How to Use</h3>
 
 1. Clone this repository:
       git clone https://github.com/Gali2025/python-SQL-practice.git
@@ -41,7 +41,7 @@ This repository also contains adapted projects completed as part of the **IBM Da
 4. Execute SQL queries using SQLite:
       sqlite3 database.db < script.sql
    
-📖 Learning Resources
+<h3>📖 Learning Resources</h3>
 
   🔗 [CS50 Introduction to Programming with Python](https://cs50.harvard.edu/python/)
   
